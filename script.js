@@ -25,7 +25,6 @@ const loop = setInterval(() => {
     sonic.style.animation = "none";
     sonic.src = "./pasta/Sonic-Loss.gif";
     sonic.style.width = "400px";
-
     fundo.src = "./pasta/Gameover.png";
   }
 }, 10);
